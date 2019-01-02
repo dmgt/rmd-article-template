@@ -7,4 +7,8 @@ Work in progress to create an RMarkdown journal article template for the buildin
     - Fork this repository (green button)
     - Create a new RStudio project using the url for your new copy of the repository, which will download all of the files locally to the computer you are working on
     - Knit the file `Manuscript.Rmd` (you can do this by navigating to it in the `Files` pane, under `/Paper/Manuscript/`, and clicking "knit")
-    - You may need to install some additional error packages if prompted to do so by errors during the knit. The packages used in this template are `tidyverse`, `here`, `knitr`, `stargazer`, `ggpmisc`. 
+        - You may need to install some additional error packages if prompted to do so by errors during the knit. 
+        - The packages used in this template are `tidyverse`, `here`, `knitr`, `stargazer`, `ggpmisc`. 
+    - This will generate a pdf file (Manuscript.pdf) in addition to files ending in .fff, .spl, .tex
+    
+- The bibliographic infomration for the citations in this paper is stored in `Template.bib`
