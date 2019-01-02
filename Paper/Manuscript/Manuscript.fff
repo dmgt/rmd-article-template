@@ -1,0 +1,21 @@
+\begin{figure}
+\centering
+\includegraphics{C:/Users/Dana/3_Professional/CBE/Reproducibility/draft-template/Paper/SupplementaryMaterial/Figures/RLogo.png}
+\caption{\label{fig:experimentimage}R logo, from
+https://www.r-project.org/logo/, used under the terms of the Creative
+Commons Attribution-ShareAlike 4.0 International license (CC-BY-SA 4.0)}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}
+\centering
+\includegraphics{Manuscript_files/figure-latex/irises-1.pdf}
+\caption{\label{fig:irises}Petal and sepal lengths from iris dataset}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}
+\centering
+\includegraphics{Manuscript_files/figure-latex/petalwidths-1.pdf}
+\caption{\label{fig:petalwidths}Petal widths by class}
+\end{figure}

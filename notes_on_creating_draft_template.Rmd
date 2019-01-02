@@ -1,0 +1,27 @@
+---
+title: "note_on_creating_draft_template"
+author: "Dana"
+date: "January 2, 2019"
+output: github_document
+---
+- [x] First, attempt to knit existing paper
+    - Manuscript.Rmd
+    - Needed to install `bookdown`, `ggpmisc`, `stargazer`
+    - Initial knit had many warning messages re: package loading after abstract, fixed by adding 'warning = FALSE' to chunk header
+
+- [x] Time knit - less than a minute from pressing "knit" to completed PDF
+
+ - [] Start to remove content to create template, re-knitting at each step
+    - [x] Abstract
+    - [x] Hidden content
+        - "SupplementaryMaterial/Data/all_test_data_and_metadata.csv", "fan_airflows.csv" is required
+        - replaced with public dataset of iris data
+    - [x]Include a figure(png)
+    - [x] Include a variable calculated from data
+    - [x] Include a graph
+    - [ ] Include a table
+    - [x] Include an equation
+    
+- [x] Delete uneeded files for template from repo
+
+- [x] Include only references used
