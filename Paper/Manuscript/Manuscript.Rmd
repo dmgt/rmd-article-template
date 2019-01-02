@@ -22,7 +22,7 @@ address:
     address: Dept. of Environment Science and Engineering, Daxue University, 123 Xuexiao Road, Tianjin, 123456, China
   - code: Consultant
     address: Consulting company, 123 54th St, Oakland, CA, 12345, USA  
-abstract: Abstract text goes here. This template was craeted by Dana Miller is adapted from code and text in the submitted manuscript "Ceiling fans - Predicting indoor air speeds based on full scale laboratory measurements" by Paul Raftery et al. All data and analysis code in this paper is avalible at [https://github.com/dmgt/draft-template](https://github.com/dmgt/draft-template).
+abstract: Abstract text goes here. This template was created by Dana Miller and is adapted from code and text in the submitted manuscript "Ceiling fans - Predicting indoor air speeds based on full scale laboratory measurements" by Paul Raftery et al. All data and analysis code in this paper is avalible at [https://github.com/dmgt/rmd-article-template](https://github.com/dmgt/rmd-article-template). Suggestions or pull requests to improve this template or create additional templates are most welcome.
 journal: "Building and Environment"
 date: "`r Sys.Date()`"
 bibliography: Template.bib
